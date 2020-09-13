@@ -1,5 +1,7 @@
 def square_array(array)
   # your code here
+  
+  #set counter
   counter = 0
   #iterate on array
   array.each do |index|
